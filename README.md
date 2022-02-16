@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment One - Fintech BootCamp
 Intro to Finance - Fintech bootcamp
 Case Study Template
 # TITLE
