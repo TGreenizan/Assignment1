@@ -45,27 +45,27 @@ Another industry that DarwinAI should be looking at is Travel, Transport and log
 
 ## Sources
 
-https://darwinai.com/ 
-https://darwinai.com/solutions/ 
-https://darwinai.com/resources/#casestudies 
-https://darwinai.com/our-technology/ 
-https://darwinai.com/why-darwinai/ 
-https://darwinai.com/manufacturing/ 
-https://www.youtube.com/watch?v=d976NZsdlKY 
-https://www.youtube.com/watch?v=Rg-dWnHccEo 
-https://www.youtube.com/watch?v=7jk-YM04Zew 
-https://www.youtube.com/watch?v=vJ02IjbXB4k 
-https://www.youtube.com/watch?v=d976NZsdlKY
-https://www.linkedin.com/company/darwinai/?originalSubdomain=ca
-https://www.linkedin.com/company/darwinai/about/
-https://www.linkedin.com/company/darwinai/people/ 
-https://www.crunchbase.com/organization/darwinai
-https://thenextweb.com/news/ai-farm-crickets-sustainable-protein-solve-hunger
-https://craft.co/darwinai/competitors
-https://craft.co/pi-exchange 
-https://www.owler.com/company/darwinai2 
-https://www.blackbird.ai/ 
-https://www.pi.exchange/
-https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence 
-https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html
+- https://darwinai.com/ 
+- https://darwinai.com/solutions/ 
+- https://darwinai.com/resources/#casestudies 
+- https://darwinai.com/our-technology/ 
+- https://darwinai.com/why-darwinai/ 
+- https://darwinai.com/manufacturing/ 
+- https://www.youtube.com/watch?v=d976NZsdlKY 
+- https://www.youtube.com/watch?v=Rg-dWnHccEo 
+- https://www.youtube.com/watch?v=7jk-YM04Zew 
+- https://www.youtube.com/watch?v=vJ02IjbXB4k 
+- https://www.youtube.com/watch?v=d976NZsdlKY
+- https://www.linkedin.com/company/darwinai/?originalSubdomain=ca
+- https://www.linkedin.com/company/darwinai/about/
+- https://www.linkedin.com/company/darwinai/people/ 
+- https://www.crunchbase.com/organization/darwinai
+- https://thenextweb.com/news/ai-farm-crickets-sustainable-protein-solve-hunger
+- https://craft.co/darwinai/competitors
+- https://craft.co/pi-exchange 
+- https://www.owler.com/company/darwinai2 
+- https://www.blackbird.ai/ 
+- https://www.pi.exchange/
+- https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence 
+- https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html
 
