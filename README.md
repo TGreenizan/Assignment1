@@ -1,13 +1,22 @@
+# Activity-4
+## Coinsquare FinTech Case Study
+
+How does this company use technology to their advantage? Why are they considered a FinTech company?
+
+Coinsquare is using a 100% proprietary platform. They are SSL & 2FA enabled and are focusing on having 95% of coins in cold storage. They also run multiple encryptions and utilize distributed backups. From the point of difference they are focusing on a Customer driven Experience. Coinsquare is providing low transparent fees, no trading minimum and a very approachable exchange. as they are focused on Crypto currencies they are a challenger in Fintech.
+
+
 # Assignment One - Fintech BootCamp
+
 # DarwinAI - *Build AI you can trust.*
 
 ![](https://github.com/TGreenizan/Assignment1/blob/main/DarwinAI.png?raw=true)
 
 ## Overview and Origin DarwinAI
 
-DarwinAI is looking for a scalable end to end solution when it comes to operator efficiency, increased product quality, transparency and overall production cost savings through the Explainable AI (XAI) platform. 
+DarwinAI is developing a scalable end to end AI solution. They are looking to improve on existing systems in the areas of operator efficiency, increased product quality, transparency and overall production cost savings through the Explainable AI (XAI) platform. 
 
-XAI is a direct result of the years of research and development completed by Dr Alexander Wong and his team at the University of Waterloo. The Explainable AI (XAI) platform has been the core system utilized by DarwinAI to open the "black box" of AI. Dr Alexander Wong is currently the Canada Research Chair in Artificial Intelligence and Medical Imaging at the University of Waterloo. As Dr Alexander Wong has said **“we are using AI to analyze AI”**.
+Explainable AI (XAI) is a direct result of the years of research and development completed by Dr Alexander Wong and his team at the University of Waterloo. The Explainable AI (XAI) platform has been the core system utilized by DarwinAI to open the "black box" of AI. Dr Alexander Wong is currently the Canada Research Chair in Artificial Intelligence and Medical Imaging at the University of Waterloo. As Dr Alexander Wong has said **“we are using AI to analyze AI”**.
 
 Founded in 2017, the DarwinAI team founders include Dr Alexander Wong, Arif Virani, Brendan Chwyl, Francis Li, Gary Pacheco, Mohammad Shafiee, and Sheldon Fernandez. At this time DarwinAI has roughly 50 employees located at their Waterloo, Ont Headoffice. The company is for profit, Private and has raised $11.9 Million in funding over 5 rounds. The most recent seed round was January 6, 2021.
 
@@ -17,15 +26,17 @@ DarwinAI's Explainable AI (XAI) platform, has been built to provide increased ef
 
 DarwinAI is looking to provide their adaptive XAI platform to the Manufacturing, Self driving cars, consumer electronics, aerospace and Healthcare industries. However, their website currently is only listing Manufacturing & Healthcare under the industry tab. The XAI Platform is being developed into a SaaS system. At this time, DarwinAI has claimed they have the backend but still require work on the client front end. As a result custom solutions have been utilized and are available. 
 
-XAI is very scalable and can be utilized by a large number of companies in a number of industries.  This is done by observing a neural network as it is being trained. Then reduce its size, efficiency, and functional accuracy. They are using AI to optimize AI and this can help show insight into the “black box”.  Each one of these companies are facing unique needs and supply a range of industries.
+XAI is very scalable and can be utilized by a large number of companies in a number of industries. This is done by observing a neural network as it is being trained. Then reduce its size (up to 90%), but maintain efficiency, and functional accuracy. Essentially DarwinAI is using AI to optimize AI and this can help show insight into the “black box”.  
 
-As an example, they have worked from the ground up with Aspire Foods located in London, Ont. DarwinAI has utilized their research in machine learning, Deep learning, neural nets. To help Aspire foods had a unique problem, what is farming 5.0?  They are looking at the current agriculture system and trying to answer what is next.  Aspire is looking for the future of food and they have settled on crickets. At the Aspire Foods Factory, DarwinAI acts as the brain. The Factory has been outfitted with sensors throughout and a private 5G network supplied by Tellus. These systems include: 50+ input parameters, 15+ output parameters, and 5000+ IIoT. All this to ensure the crickets are healthy and to maximize yield. As a result Aspire Foods is using the XAI platform currently to observe and provide recommendations to current workflows.  Stage two will increase control of the factory to a completely automated feedback loop. With Aspire Foods looking to sustainability and efficiency to eliminate food insecurity. This may be one possible future of farming, with the help of the XAI platform, we all might see crickets showing up in products at the supermarket.
+Each one of these following companies are facing unique needs and supply a range of industries. As an example, they have worked from the ground up with Aspire Foods located in London, Ont. DarwinAI has utilized their research in machine learning, Deep learning, neural nets. To help Aspire foods had a unique problem, what is farming 5.0?  They are looking at the current agriculture system and trying to answer what is next.  Aspire is looking for the future of food and they have settled on crickets. 
 
-Another company that has utilized the XAI platform is Lockheed Martin. By utilizing the XAI platform, DarwinAI was able to integrate into the existing visual inspection system. The optimizations and efficiencies gained provided a 40% increase in defects caught prior to final inspection. The vision inspection platform as a result of the XAI platform, this system now uses less compute power. Locheed also advised this had provided a 29% reduction in lead time due to less rework, and as a result operators trust the inspection outcome. At the same time providing a return on investment in only 3 months with an unforeseen bonus of increased data value. The future is bright for scalability across multiple lines.
+At the Aspire Foods Factory, DarwinAI’s XAI acts as the brain. The Factory has been outfitted with sensors throughout and a private 5G network supplied by Tellus. These systems include: 50+ input parameters, 15+ output parameters, and 5000+ IIoT. All this to ensure the crickets are healthy and to maximize yield. As a result Aspire Foods is using the XAI platform currently to observe and provide recommendations to current workflows.  Stage two will increase control of the factory to a completely automated feedback loop. With Aspire Foods looking to sustainability and efficiency to eliminate food insecurity. This may be one possible future of farming, with the help of the XAI platform, we all might see crickets showing up in products at the supermarket.
 
-What about seeing inside the “black box”? An example provided from DarwinAI is as follows. An unnamed company wanted to get more insight into their current neural network. Through the XAI platform a surprising result was observed. The car’s AI was not using the lane markers on the road when looking for the lane.  The car’s AI was actually looking at the objects to the left and right of the car to determine where the road and lanes could be.  Armed with this unexpected result the developers have been able to help refine the code.
+Another company that has utilized the XAI platform is Lockheed Martin. By utilizing the XAI platform, DarwinAI was able to integrate into the existing visual inspection system. The optimizations and efficiencies gained provided a 40% increase in defects caught prior to final inspection. As a result of the XAI platform, the vision inspection platform now uses less compute power. Locheed also advised this had provided a 29% reduction in lead time due to less rework, and as a result operators trust the inspection outcome. At the same time providing a return on investment in only 3 months with an unforeseen bonus of increased data value. The future is bright for scalability across multiple lines.
 
-To truly show the flexibility of the Platform DarwinAI has also provided Open Source code starting in 2020.  This is a non commercial initiative focused around the COVD-19 pandemic. The team released COVID-net neural network. This open source tool provides a neural net that is focused on COVID-19 via chest radiography. This platform has now also been adapted into Fibrosis-Net (predicts pulmonary fibrosis disease progression) & Cancer-Net (detection of skin cancer from dermoscopy images) with direct help from the DarwinAI team.  
+What about seeing inside the “black box”? An example provided from DarwinAI is as follows. An unnamed company wanted to get more insight into their current neural network that is being used in autonomous vehicles. Through the XAI platform a surprising result was observed. The autonomous vehicles AI was not using the lane markers on the road when looking for the lane.  The autonomous vehicles AI was actually looking at the objects to the left and right of the car to determine where the road and lanes could be. Armed with this unexpected result the developers have been able to help refine the code.
+
+To truly show the flexibility of the Platform DarwinAI has also provided Open Source code starting in 2020. This is a non commercial initiative focused around the COVD-19 pandemic. The team released COVID-net neural network. This open source tool provides a neural net that is focused on COVID-19 via chest radiography. This platform has now also been adapted into Fibrosis-Net (predicts pulmonary fibrosis disease progression) & Cancer-Net (detection of skin cancer from dermoscopy images) with direct help from the DarwinAI team.  
 
 ## Landscape:
 
@@ -45,9 +56,10 @@ Clients are also very happy with the following measurable metrics. One example i
 
 ## Recommendations:
 
-My recommendation for DarwinAI is to look into CRM/sales pipeline optimization. Marketing and sales are an industry that has relied on human decisions and interpretation of data.  The potential is that opportunities are being missed or the time used by the employees is being taken up not selling. These optimizations can be measured and a system could be developed to rank potential clients and help focus your target market. There is a potential to team up with Zoho or Salesforce to help add additional value to the current services they offer. The XAI platform has the potential to continually get better and influence additional industries in ways we currently do not envision.
+My recommendation for DarwinAI is to look into CRM/sales pipeline optimization. Marketing and sales as an industry are starting to see the value of big data and machine learning. The potential is that the employee's time is being utilized for tasks other than selling. There is a potential to team up with Zoho or Salesforce to help add additional value to the current services they offer. Due to the customizations allowed by both systems. One direction could be to develop a ranking system for potential clients and help focus your target market. The XAI platform has the potential to continually get better and influence additional industries in ways we currently do not envision.
 
 Another industry that DarwinAI should be looking at is Travel, Transport and logistics. One of today's biggest problems is the traveling salesman problem. What is the best route to deliver all these packages to all these different places? Well, the XAI platform has the potential to review the data and existing neural networks.  Generate a new AI based on the results from a range of sources. As an example, XAI can look at the route that was generated by the original neural net. The true GPS location of the delivery will also be tracked and timed. Additional API’s can then be used. These could be Traffic, weather, possibly additional data for each driver. Over time XAI will generate new routes that are more efficient and can be generated with lower power requirements and a smaller neural net.  As most experts believe that the traveling salesman problem needs Quantum Computing to truly solve.  The XAI platform developed by DarwinAI could be a step along this road.
+
 
 ## Sources
 
@@ -75,3 +87,4 @@ Another industry that DarwinAI should be looking at is Travel, Transport and log
 - https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence 
 - https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html
 
+**Trevor Greenizan 2022**
